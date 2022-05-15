@@ -1,0 +1,41 @@
+```{r}
+# ls() - list all objects
+```
+
+```{r}
+# assigning values to variables
+a <- 1
+b <- 1
+c <- -1
+
+# a
+# print(a)
+# ls() - list all objects
+```
+
+```{r}
+# solving the quadratic equation
+(-b + sqrt(b^2 - 4*a*c)) / (2*a)
+(-b - sqrt(b^2 - 4*a*c)) / (2*a)
+```
+
+```{r}
+log(8)
+log(a)
+exp(1)
+
+# Inverse functions. Inside out.
+log(exp(1))
+help(log) #using help function
+?log
+?"+"
+```
+
+```{r}
+# Data sets in package ‘datasets’:
+# data()
+
+n <- 1000
+x <- seq(1,n)
+sum(x)
+```

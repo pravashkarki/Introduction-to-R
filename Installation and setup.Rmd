@@ -43,3 +43,5 @@ install.packages ("dslabs")
 ```{r}
 library(dslabs)
 ```
+
+[Basics.Rmd](Basics.Rmd)
