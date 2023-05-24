@@ -1,4 +1,2 @@
 # Introduction to R
-
-## Chapter
-### 1.  [Installation and Setup](https://github.com/pravashkarki/Introduction-to-R/blob/main/Installation%20and%20setup.Rmd)
+## Following Book of Rafal - [Data Analysis and Prediction Algorithms with R]( https://rafalab.github.io/dsbook/getting-started.html)
