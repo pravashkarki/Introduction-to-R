@@ -8,9 +8,15 @@ a <- 1
 b <- 1
 c <- -1
 
-# a
-# print(a)
-# ls() - list all objects
+#In R you can direct print the variable
+a
+
+# Or you can write print() and pass the variable
+print(a)
+
+# List all objects.
+ls() 
+
 ```
 
 ```{r}
@@ -38,4 +44,5 @@ help(log) #using help function
 n <- 1000
 x <- seq(1,n)
 sum(x)
+
 ```
